@@ -8,7 +8,7 @@ SaathiCare provides a unified ecosystem that adapts content and interaction comp
 
 ## Live Deployment
 
-🚀 We have deployed SaathiCare here: **[https://snack-alzheimer.vercel.app/](https://snack-alzheimer.vercel.app/)**
+🚀 We have deployed SaathiCare here: **((https://snack-alzheimer-production.up.railway.app/))**
 
 ---
 
