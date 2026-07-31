@@ -21,16 +21,10 @@ The core insight: most Alzheimer's care tools are built for *caretakers*, not pa
 ## Screenshots
 
 | AI Companion Chat | Memory Room Therapy |
-|---|---|
-| ![AI Companion](<img width="1897" height="897" alt="image" src="https://github.com/user-attachments/assets/2e76a4ae-a0cd-477f-add5-300d685b390d" />
-) | ![Memory Room](<img width="1877" height="893" alt="image" src="https://github.com/user-attachments/assets/dd85683f-cff9-4e40-88b4-f2b790ba9492" />
-) |
-
+|-------------------|---------------------|
+| ![AI Companion](<img width="1897" height="897" alt="image" src="https://github.com/user-attachments/assets/2e76a4ae-a0cd-477f-add5-300d685b390d" />) | ![Memory Room](<img width="1877" height="893" alt="image" src="https://github.com/user-attachments/assets/dd85683f-cff9-4e40-88b4-f2b790ba9492" />) |
 | Live GPS Safety Map | Guardian Analytics Dashboard |
-|---|---|
-| ![GPS Map](<img width="1897" height="896" alt="image" src="https://github.com/user-attachments/assets/39794fd8-67cb-49f2-b235-a5fa0826b8e0" />
-) | ![Dashboard](<img width="1883" height="896" alt="image" src="https://github.com/user-attachments/assets/c162a1ed-fc71-4922-bf7b-a6e1d3ec17e3" />
-) |
+| ![GPS Map](<img width="1897" height="896" alt="image" src="https://github.com/user-attachments/assets/39794fd8-67cb-49f2-b235-a5fa0826b8e0" />) | ![Dashboard](<img width="1883" height="896" alt="image" src="https://github.com/user-attachments/assets/c162a1ed-fc71-4922-bf7b-a6e1d3ec17e3" />) |
 
 ---
 
