@@ -18,7 +18,6 @@ The core insight: most Alzheimer's care tools are built for *caretakers*, not pa
 
 ---
 
-## Screenshots
 
 ## Screenshots
 
